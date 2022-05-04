@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Chat_firebase</string>
+    <string name="user_name">César</string>
+    <string name="message">Write something...</string>
+    <string name="txt_button">Send</string>
+    <string name="message_welcome">Hola, bienvenidos!</string>
+</resources>
